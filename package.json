@@ -1,0 +1,14 @@
+{
+  "name": "scoutx",
+  "version": "1.0.0",
+  "description": "WhatsApp RSS News Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "rss-parser": "^3.13.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
